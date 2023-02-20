@@ -1,0 +1,22 @@
+body{
+color: rgb(223, 162, 162);
+    font-family: 'Gill Sans' ,  'Gill Sans MT' , Calibri ,  'Trebuchet MS' , sans-serif
+}
+
+h1 {
+    color:#000;
+}
+tr {
+    color:bisque;
+}table {
+    margin-left:  320 px ;
+}
+im {
+margin : 5 px  5 px  5 px  5 px ;
+}
+titulo {
+    font-family:   'PROJECT SPACE' , sans-serif;
+        font-size:   50 px ;
+        color : blue;
+        align-items: center;                                       
+}
